@@ -37,7 +37,11 @@ Closes the graphics mode.git
 
 
 OUTPUT:
+
+
 ![](./OP1.JPG)
+
+
 
 CONCLUSION:
 Hence, we understood the concept of basic structure of a graphics program in c. We learnt how to setup and initialize the graphics mode. 
