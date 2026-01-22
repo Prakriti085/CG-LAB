@@ -29,4 +29,5 @@ OUTPUT:
 
 ![alt text](image-1.png)
 
-
+CONCLUSION:
+In this lab we understood and implemented the concept of DDA to draw a line. we learnt how to draw lines of different  size using DDA.
