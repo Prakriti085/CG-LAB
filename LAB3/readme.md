@@ -15,3 +15,12 @@ pₖ₊₁ = pₖ + 2Δy − 2Δx
 v. Repeat step iv Δx times
 
 INPUT:
+
+![alt text](image.png)
+
+OUTPUT:
+
+![alt text](image-1.png)
+
+Conclusion:
+In this experiment, Bresenham’s Line Algorithm was successfully implemented to draw a straight line between two given points on a raster display. The algorithm efficiently determines the intermediate pixel positions using only integer calculations, avoiding floating-point operations. This makes it highly suitable for real-time graphics applications.
